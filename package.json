@@ -1,7 +1,7 @@
 {
   "name": "@types/passport-github",
   "version": "1.1.0",
-  "description": "Types for https://github.com/thegameofcode/passport-github",
+  "description": "Types for https://github.com/jaredhanson/passport-github",
   "typings": "lib/index.d.ts",
   "scripts": {
     "lint": "tslint \"**/*.ts\" -e \"node_modules/**\" -e \"typings/**\" -e bundle.d.ts",
